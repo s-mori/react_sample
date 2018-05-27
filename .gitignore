@@ -1,0 +1,6 @@
+# React
+node_modules
+.module-cache
+
+# log
+*.log*
